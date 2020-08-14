@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNewApp</string>
+    <string name="Login">Login</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign_In</string>
+    <string name="sign_up">Sign_Up</string>
+</resources>
