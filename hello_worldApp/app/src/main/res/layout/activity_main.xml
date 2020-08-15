@@ -35,14 +35,4 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/editTextTextPersonName" />
 
-    <com.google.android.material.bottomnavigation.BottomNavigationView
-        android:layout_width="410dp"
-        android:layout_height="53dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent">
-
-    </com.google.android.material.bottomnavigation.BottomNavigationView>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
